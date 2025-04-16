@@ -4,7 +4,7 @@
   "States": {
     "PreProvision": {
       "Type": "Pass",
-      "Next": "Provision"
+      "Next": "GenerateSuffix"
     },
     "GenerateSuffix": {
       "Type": "Pass",
